@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+Allow: /
+
+Sitemap: http://qq5796.jmarchini.org/sitemap.xml
